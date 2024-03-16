@@ -1,0 +1,17 @@
+.title-container {
+    max-height: 250px;
+    overflow: hidden;
+    display: flex;
+}
+
+.titulo-picture {
+    width: 100%;
+    height: auto;
+    object-fit: none;
+}
+
+/* .title-container, .header {
+
+    background: linear-gradient(to right, #00ff2a, #11a11170);
+
+} */
